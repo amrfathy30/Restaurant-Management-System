@@ -1,0 +1,3 @@
+Small 15.0
+Medium 22.0
+Large 35.0
