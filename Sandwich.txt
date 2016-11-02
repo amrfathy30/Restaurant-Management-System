@@ -1,0 +1,8 @@
+Beef 4.5
+Cheese 4.0
+Chicken 7.5
+Tuna 9.0
+Egg 4.0
+Single 22.0
+Combo 23.0
+Mix 25.5

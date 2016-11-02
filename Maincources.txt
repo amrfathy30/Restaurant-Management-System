@@ -1,0 +1,9 @@
+ChickenKatsu 13.0 
+MixKatsu 17.0 
+Chicken-Gordon-Bleu 25.0
+Miegetty-Bolognise 14.0
+Chicken-Teriyaki 13.5
+Honeydew-Pried-Chicken 13.5
+Keiko-Pried-Rice 13.5
+Seafood-Pried-Rice 15.0
+

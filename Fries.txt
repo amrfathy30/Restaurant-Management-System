@@ -1,0 +1,6 @@
+Chicken-Nugget 14.0
+Prench-Pries-Plain 12.5
+Prench-Pries-BBQ 14.5
+Prench-Pries-Cheese 14.5
+Prench-Pries-MIX 15.0
+Onion-Ring 12.5
